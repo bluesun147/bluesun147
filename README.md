@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluesun147&langs_count=8)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/haechan-kim-01b2ab21b/)](https://www.linkedin.com/in/haechan-kim-01b2ab21b/)
