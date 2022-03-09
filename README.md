@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluesun147&layout=compact)](https://github.com/bluesun147/github-readme-stats)
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/haechan-kim-01b2ab21b/)](https://www.linkedin.com/in/haechan-kim-01b2ab21b/)
+[![Velog Badge](https://img.shields.io/badge/-velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://https://velog.io/@bluesun147)](https://velog.io/@bluesun147)
 </div>
