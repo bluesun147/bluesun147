@@ -22,7 +22,7 @@ Here are some ideas to get you started :
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluesun147&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluesun147&theme=vue)	
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluesun147&theme=vue) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bluesun147&theme=vue&utcOffset=9)
 	
 <!-- ![](https://github-readme-stats.vercel.app/api?bg_color=9ff5ab&username=bluesun147&show_icons=true)
