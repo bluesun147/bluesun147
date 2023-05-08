@@ -18,7 +18,7 @@ Here are some ideas to get you started :
 
  💭 **Haechan Kim** 💭
 	
-<img src="https://github-readme-stats.vercel.app/api?username=bluesun147"> 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bluesun147"> 
 	
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bluesun147)
